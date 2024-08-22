@@ -1,3 +1,8 @@
+
+Essa atividade tem como objetivo analisar o enunciado e desenvolver um programa com base no paradigma da programação orientada a objetos 
+
+
+IMPORTANCIA:
 Programação Orientada a Objetos (POO) é fundamental para o desenvolvimento de software. Este paradigma organiza o código em torno de objetos, que são instâncias de classes. A POO oferece várias vantagens importantes:
 
   *Reutilização de Código: Permite criar classes reutilizáveis que podem ser utilizadas em diferentes partes do programa ou em projetos distintos.
@@ -11,3 +16,5 @@ Programação Orientada a Objetos (POO) é fundamental para o desenvolvimento de
   *Herança: Permite criar novas classes a partir de classes existentes, facilitando a reutilização e a organização hierárquica.
 
   *Polimorfismo: Permite que uma função ou método se comporte de maneira diferente dependendo do objeto com o qual está interagindo, promovendo flexibilidade e extensibilidade.
+
+  Essa atividade tem como objetivo analisar o enuciado e desenvolver um programa com base no paradgma da programação orientada a objetos 
